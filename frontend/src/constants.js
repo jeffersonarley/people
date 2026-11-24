@@ -1,0 +1,29 @@
+export const CANALES = [
+  'RETAIL',
+  'CLARO-CAV',
+  'CLARO-DEALERS',
+  'ADM OPER',
+  'MAYORISTAS',
+  'MOVISTAR',
+  'TIGO',
+  'SENA',
+  'GERENCIA',
+  'CLARO',
+  'CLARO-CALL CENTER',
+  'IT TECNOLOGIES',
+  'OPERADORES',
+  'PCD',
+  'PEOPLE AND TRADE',
+  'TRAINING',
+  'WOM',
+  'ZTE',
+  'SIN CANAL'
+]
+
+export const OPERADORES = ['CLARO', 'TIGO']
+
+export const ESTADOS_LINEA = ['ACTIVA', 'DISPONIBLE', 'POR_CANCELAR', 'CANCELADA']
+
+export const ESTADOS_EMPLEADO = ['ACTIVO', 'RETIRADO']
+
+export const TIPOS_DOCUMENTO = ['CC', 'CE', 'PPT', 'TI', 'PT']
